@@ -744,6 +744,12 @@ is是对比地址,==是对比值
 ## 28 Python2和3的区别
 推荐：[Python 2.7.x 与 Python 3.x 的主要差异](http://chenqx.github.io/2014/11/10/Key-differences-between-Python-2-7-x-and-Python-3-x/)
 
++ Unicode相关内容
+
+[Unicode之痛](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue5/unipain.html)
+
+[Python2 与 Python3 的编码对比](http://kuanghy.github.io/2016/10/15/encoding-python2-vs-python3)
+
 ## 29 super init
 super() lets you avoid referring to the base class explicitly, which can be nice. But the main advantage comes with multiple inheritance, where all sorts of fun stuff can happen. See the standard docs on super if you haven't already.
 
